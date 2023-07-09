@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👋 Hi, I'm Evan Vokey
+- 🏫 I'm an Engineering Student at Memorial University of Newfoundland
+- 🤖 I'm a member of the Software Team at [Eastern Edge Robotics](https://www.easternedgerobotics.com/)
+- ✉️ You can reach me by email at [contact@evanvokey.com](mailto:contact@evanvokey.com)
 
 <!--
 **Evan-Vokey/Evan-Vokey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
