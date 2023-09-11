@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Evan Vokey
-- 🏫 I'm an Engineering Student at Memorial University of Newfoundland
-- 🤖 I'm a member of the Software Team at [Eastern Edge Robotics](https://www.easternedgerobotics.com/)
+- 🏫 I'm a Computer Engineering Student at Memorial University of Newfoundland
+- 🤖 I'm the Chief Technology Officer at [Eastern Edge Robotics](https://www.easternedgerobotics.com/)
 - ✉️ You can reach me by email at [contact@evanvokey.com](mailto:contact@evanvokey.com)
 
 <!--
